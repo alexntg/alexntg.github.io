@@ -31,7 +31,6 @@
 
 ¡Siempre estoy abierto a nuevas oportunidades y colaboraciones! Puedes contactarme a través de:
 
-- Correo electrónico: tuemail@example.com
-- Twitter: [@tuusuario](https://twitter.com/tuusuario)
-
+- Correo electrónico: anoel.terceros@alumno.ucjc.edu
+  
 ¡Gracias por visitar mi página!
