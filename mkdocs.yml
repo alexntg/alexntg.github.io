@@ -1,2 +1,6 @@
 site_name: My Docs
 site_dir: site
+
+theme:
+  name: readthedocs
+  nav_style: dark
